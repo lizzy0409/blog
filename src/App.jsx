@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom'
 import { useSelector } from 'react-redux'
-
+component
 // config
 import routes from '@/routes'
 
