@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux'
 
 // config
 import routes from '@/routes'
-component
+
 // components
 import PublicComponent from '@/components/Public'
 
