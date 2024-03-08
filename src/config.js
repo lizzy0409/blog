@@ -4,7 +4,7 @@ import SvgIcon from '@/components/SvgIcon'
 
 import Href from '@/components/Href'
 import MyInfo from '@/views/web/about/MyInfo'
-
+component
 // API_BASE_URL
 export const API_BASE_URL = 'http://localhost:6060'
 
